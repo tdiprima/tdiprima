@@ -1,18 +1,29 @@
-![Banner](github-header-banner.png)
+<!-- ![Banner](github-header-banner.png) -->
 
-<!-- ## Hi there 👋 -->
+# Hey, I'm Tammy 🐻
 
-<!--
-**tdiprima/tdiprima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems and software that are precise, elegant, and understandable.
 
-Here are some ideas to get you started:
+🧠 **DevOps Engineer | Python Developer | AI Practitioner**
+I explore the intersections of automation, infrastructure, and intelligence — always with an eye toward correctness and design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 Current Labs
+- 🌀 **decorator-lab** — dissecting Python's decorator model and metaprogramming  
+- 📊 **Datacraft** — a collection of clean, reusable libraries for data exploration  
+- 🧩 **InContext** — experiments in contextual behavior and execution in Python  
+- ⚙️ **parallel-universe** — hands-on exploration of concurrency, parallelism, and async models  
+- 🔐 **pylocksmith** — investigating Python's security libraries and cryptographic patterns
+
+---
+
+### 🧰 What drives me
+- Building tools that balance clarity with power  
+- Using AI to accelerate development and insight  
+- Architecting systems that are self-documenting and maintainable  
+- Treating software like craftsmanship — precise, intentional, and evolving
+
+---
+
+💬 *"Good code is clear thought made visible."*
