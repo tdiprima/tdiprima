@@ -4,7 +4,7 @@
 
 I build systems and software that are precise, elegant, and understandable.
 
-🧠 **DevOps Engineer | Python Developer | AI Practitioner**
+🧠 **DevOps Engineer | Python Developer | AI Practitioner**  
 I explore the intersections of automation, infrastructure, and intelligence — always with an eye toward correctness and design.
 
 ---
