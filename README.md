@@ -10,7 +10,7 @@ I explore the intersections of automation, infrastructure, and intelligence — 
 ---
 
 ### 🔬 Current Labs
-- ⚡ **ML-Automation** — simplifying machine learning workflows to near single-line commands; building elegant abstractions that turn complex pipelines into clean, composable tools
+- ⚡ **ML-Automation** — simplifying machine learning workflows to near single-line commands
 - 🌀 **decorator-lab** — dissecting Python's decorator model and metaprogramming  
 - 📊 **Datacraft** — a collection of clean, reusable libraries for data exploration  
 - 🧩 **InContext** — experiments in contextual behavior and execution in Python  
