@@ -1,4 +1,4 @@
-<!-- ![Banner](github-header-banner.png) -->
+<!-- # Copyright (c) 2025 Tammy DiPrima. All rights reserved. -->
 
 # Hey, I'm Tammy 🐻
 
