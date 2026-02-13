@@ -10,7 +10,7 @@ I explore the intersections of automation, infrastructure, and intelligence — 
 ---
 
 ### 🔬 Current Labs
-- 🌀 **decorator-lab** — dissecting Python's decorator model and metaprogramming
+- 🌀 **decorator-lab** — dissecting Python's decorator model, dataclasses, and functools
 - 🌐 **api_tester** — using the tools and techniques I learned in `decorator-lab`
 - 📊 **Datacraft** — a collection of clean, reusable libraries for data exploration
 - ⚙️ **parallel-universe** — hands-on exploration of concurrency, parallelism, and async models
