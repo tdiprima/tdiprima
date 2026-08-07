@@ -6,6 +6,8 @@
 
 ### 🛡️ DevSecOps • Linux • Security Automation
 
+CompTIA Security+ Certified
+
 I enjoy building practical tools that automate repetitive work, improve security, and make Linux servers a little less stressful to manage.
 
 </div>
