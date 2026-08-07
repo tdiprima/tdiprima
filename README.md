@@ -19,6 +19,8 @@ class TDiPrima:
 
     role = "DevSecOps Engineer"
 
+    certification = "CompTIA Security+"
+
     building = [
         "Linux automation",
         "Security tooling",
