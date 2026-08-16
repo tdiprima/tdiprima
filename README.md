@@ -50,7 +50,7 @@ class TDiPrima:
 | 🦅 **LogHawk** | Lightweight SIEM alternative with rsyslog forwarding and real-time detection |
 | 🎯 **pentest-metasploitable** | Automated recon, enumeration, and exploitation practice for Metasploitable labs |
 | 🖥️ **cockpit-terminal** | macOS terminal rewired into an operator workstation with opsec guardrails and zsh hooks |
-| 📈 **server-vibes-check** | Lightweight server health monitoring with email alerts |
+| 📈 **server-vibes-check** | Lightweight server health monitoring with email alerts and service restarts |
 | ⏰ **crontab-helper** | Interactive cron builder that installs jobs without editing crontab |
 | 🎙️ **soundscribe** | Local Whisper-powered speech-to-text CLI with progress feedback |
 
